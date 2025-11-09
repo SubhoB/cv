@@ -1,5 +1,6 @@
 \let\nofiles\relax % This is because res says to not emit aux files,
-                   % but lastpage needs aux files.
+% but lastpage needs aux files.
+\rhead{\thepage of \pageref{LastPage}}
 \documentclass[margin,line]{res}
 \usepackage[colorlinks=true]{hyperref}
 \usepackage[utf8]{inputenc}
@@ -25,6 +26,7 @@
 
 % Headings
 \pagestyle{fancy}
+\setlemgth{\headheight}{15pt}
 \lhead{Subhayu Bagchi --- Curriculum Vitae (as of \today)}
 \chead{}
 \rhead{\thepage\ of \pageref*{LastPage}}
