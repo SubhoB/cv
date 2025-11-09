@@ -16,7 +16,6 @@ jobs:
               SubhayuBagchi.tex
               SubhayuBagchi-PubsOnly.tex
               SubhayuBagchi-NoPubs.tex
-          output_directory: .
       - name: List generated files
         run: ls -R      
       - name: Commit to orphan branch
