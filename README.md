@@ -10,8 +10,8 @@ Please feel free to clone this repo if you like the style and want to use it for
 - [SubhayuBagchi.tex](SubhayuBagchi.tex): The top-level file. Compiling this
   gives the full CV. However the sources for list of publications,
   list of talks, and contact info are in other files (listed below).
-- [SubhayuBagchi-NoPubs.tex](SubhayuBagchi-NoPubs.tex): Another top-level file, which just sets a flag and includes the above. Generates a CV without pub list.
-- [SubhayuBagchi-PubsOnly.tex](SubhayuBagchi-PubsOnly.tex): Another top-level file. Generates just a publication list (with contact info header).
+<!-- - [SubhayuBagchi-NoPubs.tex](SubhayuBagchi-NoPubs.tex): Another top-level file, which just sets a flag and includes the above. Generates a CV without pub list.
+- [SubhayuBagchi-PubsOnly.tex](SubhayuBagchi-PubsOnly.tex): Another top-level file. Generates just a publication list (with contact info header). -->
 
 The following files are included by the above (they can not be compiled by themselves):
 - [ContactContent.tex](ContactContent.tex): Contains the contact info header with physical address, email address, web site, office phone
