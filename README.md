@@ -1,8 +1,8 @@
 
 ![LaTeX build](../../workflows/LaTeX%20build/badge.svg)
 [![Latest build of SubhayuBagchi.pdf](https://img.shields.io/badge/SubhayuBagchi.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/SubhayuBagchi.pdf)
-[comment]: #[![Latest build of SubhayuBagchi-NoPubs.pdf](https://img.shields.io/badge/SubhayuBagchi--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/SubhayuBagchi-NoPubs.pdf)
-[comment]: #[![Latest build of SubhayuBagchi-PubsOnly.pdf](https://img.shields.io/badge/SubhayuBagchi--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/SubhayuBagchi-PubsOnly.pdf)
+<!--[![Latest build of SubhayuBagchi-NoPubs.pdf](https://img.shields.io/badge/SubhayuBagchi--NoPubs.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/SubhayuBagchi-NoPubs.pdf)
+[![Latest build of SubhayuBagchi-PubsOnly.pdf](https://img.shields.io/badge/SubhayuBagchi--PubsOnly.pdf-latest-orange.svg?style=flat)](../gh-action-result/pdflatex/SubhayuBagchi-PubsOnly.pdf) -->
 
 #  Subhayu's curriculum vitae LaTeX source
 
